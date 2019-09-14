@@ -4,7 +4,11 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SportsTeamsKaelanK" expanded="True">
-            <Node name="SportsTeamsKaelanK" selected="True" />
+            <Node name="SportsTeamsKaelanK" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="Resources.resx" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
