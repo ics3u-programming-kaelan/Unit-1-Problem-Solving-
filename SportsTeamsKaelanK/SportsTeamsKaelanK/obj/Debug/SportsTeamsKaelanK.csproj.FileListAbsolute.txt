@@ -1,5 +1,10 @@
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\SportsTeamsKaelanK\SportsTeamsKaelanK\obj\Debug\SportsTeamsKaelanK.csprojAssemblyReference.cache
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\SportsTeamsKaelanK\SportsTeamsKaelanK\obj\Debug\SportsTeamsKaelanK.Properties.Resources.resources
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\SportsTeamsKaelanK\SportsTeamsKaelanK\obj\Debug\SportsTeamsKaelanK.frmSportsTeams.resources
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\SportsTeamsKaelanK\SportsTeamsKaelanK\obj\Debug\SportsTeamsKaelanK.csproj.GenerateResource.cache
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\SportsTeamsKaelanK\SportsTeamsKaelanK\obj\Debug\SportsTeamsKaelanK.csproj.CoreCompileInputs.cache
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Debug/SportsTeamsKaelanK.csprojAssemblyReference.cache
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Debug/SportsTeamsKaelanK.Properties.Resources.resources
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Debug/SportsTeamsKaelanK.frmSportsTeams.resources
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Debug/SportsTeamsKaelanK.csproj.GenerateResource.cache
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Debug/SportsTeamsKaelanK.csproj.CoreCompileInputs.cache
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Debug/SportsTeamsKaelanK.csprojAssemblyReference.cache
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Debug/SportsTeamsKaelanK.Properties.Resources.resources
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Debug/SportsTeamsKaelanK.frmSportsTeams.resources
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Debug/SportsTeamsKaelanK.csproj.GenerateResource.cache
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Debug/SportsTeamsKaelanK.csproj.CoreCompileInputs.cache

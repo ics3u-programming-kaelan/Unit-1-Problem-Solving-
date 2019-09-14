@@ -1,0 +1,4 @@
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Release/SportsTeamsKaelanK.Properties.Resources.resources
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Release/SportsTeamsKaelanK.frmSportsTeams.resources
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Release/SportsTeamsKaelanK.csproj.GenerateResource.cache
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/SportsTeamsKaelanK/SportsTeamsKaelanK/obj/Release/SportsTeamsKaelanK.csproj.CoreCompileInputs.cache
