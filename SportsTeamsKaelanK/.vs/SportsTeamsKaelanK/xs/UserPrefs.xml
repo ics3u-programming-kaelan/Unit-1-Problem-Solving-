@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{5035B8FC-48DF-4C77-A449-8C8EAB0B735A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SportsTeamsKaelanK/SportsTeamsForm.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SportsTeamsKaelanK/SportsTeamsForm.Designer.cs">
     <Files>
       <File FileName="SportsTeamsKaelanK/SportsTeamsForm.Designer.cs" Line="155" Column="56" />
       <File FileName="SportsTeamsKaelanK/SportsTeams.cs" Line="7" Column="29" />
-      <File FileName="SportsTeamsKaelanK/SportsTeamsForm.cs" Line="27" Column="14" />
+      <File FileName="SportsTeamsKaelanK/SportsTeamsForm.cs" Line="11" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,10 +11,15 @@
           <Node name="SportsTeamsKaelanK" expanded="True">
             <Node name="SportsTeamsKaelanK" expanded="True">
               <Node name="Properties" expanded="True" />
-              <Node name="SportsTeamsForm.cs" expanded="True" selected="True" />
+              <Node name="SportsTeamsForm.cs" expanded="True">
+                <Node name="SportsTeamsForm.Designer.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
