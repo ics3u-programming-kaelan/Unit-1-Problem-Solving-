@@ -19,22 +19,26 @@ namespace SportsTeamsKaelanK
 
         private void MniBasketball_Click(object sender, EventArgs e)
         {
-            this.lblSportName = "Toronto";
+            this.lblSportName.Text = "Toronto";
+            this.lblTeamName.Text = "Raptors";
         }
 
         private void MniFootball_Click(object sender, EventArgs e)
         {
-
+            this.lblSportName.Text = "Ottawa";
+            this.lblTeamName.Text = "Redblacks";
         }
 
         private void MniSoccer_Click(object sender, EventArgs e)
         {
-
+            this.lblSportName.Text = "Manchester";
+            this.lblTeamName.Text = "United";
         }
 
         private void MniPaintball_Click(object sender, EventArgs e)
         {
-
+            this.lblSportName.Text = "Seattle";
+            this.lblSportName.Text = "Uprising";
         }
     }
 }
