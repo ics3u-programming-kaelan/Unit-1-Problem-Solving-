@@ -30,17 +30,19 @@
         {
             this.components = new System.ComponentModel.Container();
             this.mnuSports = new System.Windows.Forms.MenuStrip();
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.mniSports = new System.Windows.Forms.ToolStripMenuItem();
             this.mniBasketball = new System.Windows.Forms.ToolStripMenuItem();
             this.mniFootball = new System.Windows.Forms.ToolStripMenuItem();
             this.mniSoccer = new System.Windows.Forms.ToolStripMenuItem();
             this.mniPaintball = new System.Windows.Forms.ToolStripMenuItem();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.grbLabels = new System.Windows.Forms.GroupBox();
-            this.lblSportName = new System.Windows.Forms.Label();
             this.lblTeamName = new System.Windows.Forms.Label();
+            this.lblSportName = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.mnuSports.SuspendLayout();
             this.grbLabels.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // mnuSports
@@ -51,11 +53,6 @@
             this.mnuSports.Name = "mnuSports";
             this.mnuSports.Size = new System.Drawing.Size(800, 24);
             this.mnuSports.TabIndex = 0;
-            // 
-            // contextMenuStrip1
-            // 
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
             // mniSports
             // 
@@ -71,41 +68,57 @@
             // mniBasketball
             // 
             this.mniBasketball.Name = "mniBasketball";
-            this.mniBasketball.Size = new System.Drawing.Size(180, 22);
+            this.mniBasketball.Size = new System.Drawing.Size(127, 22);
             this.mniBasketball.Text = "Basketball";
             this.mniBasketball.Click += new System.EventHandler(this.MniBasketball_Click);
             // 
             // mniFootball
             // 
             this.mniFootball.Name = "mniFootball";
-            this.mniFootball.Size = new System.Drawing.Size(180, 22);
+            this.mniFootball.Size = new System.Drawing.Size(127, 22);
             this.mniFootball.Text = "Football";
             this.mniFootball.Click += new System.EventHandler(this.MniFootball_Click);
             // 
             // mniSoccer
             // 
             this.mniSoccer.Name = "mniSoccer";
-            this.mniSoccer.Size = new System.Drawing.Size(180, 22);
+            this.mniSoccer.Size = new System.Drawing.Size(127, 22);
             this.mniSoccer.Text = "Soccer";
             this.mniSoccer.Click += new System.EventHandler(this.MniSoccer_Click);
             // 
             // mniPaintball
             // 
             this.mniPaintball.Name = "mniPaintball";
-            this.mniPaintball.Size = new System.Drawing.Size(180, 22);
+            this.mniPaintball.Size = new System.Drawing.Size(127, 22);
             this.mniPaintball.Text = "Paintball";
             this.mniPaintball.Click += new System.EventHandler(this.MniPaintball_Click);
             // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            // 
             // grbLabels
             // 
+            this.grbLabels.Controls.Add(this.pictureBox1);
             this.grbLabels.Controls.Add(this.lblTeamName);
             this.grbLabels.Controls.Add(this.lblSportName);
             this.grbLabels.Font = new System.Drawing.Font("Verdana", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.grbLabels.Location = new System.Drawing.Point(231, 121);
+            this.grbLabels.Location = new System.Drawing.Point(101, 121);
             this.grbLabels.Name = "grbLabels";
-            this.grbLabels.Size = new System.Drawing.Size(321, 189);
+            this.grbLabels.Size = new System.Drawing.Size(451, 243);
             this.grbLabels.TabIndex = 2;
             this.grbLabels.TabStop = false;
+            // 
+            // lblTeamName
+            // 
+            this.lblTeamName.AutoSize = true;
+            this.lblTeamName.Font = new System.Drawing.Font("Verdana", 32.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTeamName.Location = new System.Drawing.Point(7, 117);
+            this.lblTeamName.Name = "lblTeamName";
+            this.lblTeamName.Size = new System.Drawing.Size(213, 52);
+            this.lblTeamName.TabIndex = 1;
+            this.lblTeamName.Text = "Raptors";
             // 
             // lblSportName
             // 
@@ -117,15 +130,13 @@
             this.lblSportName.TabIndex = 0;
             this.lblSportName.Text = "Toronto";
             // 
-            // lblTeamName
+            // pictureBox1
             // 
-            this.lblTeamName.AutoSize = true;
-            this.lblTeamName.Font = new System.Drawing.Font("Verdana", 32.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTeamName.Location = new System.Drawing.Point(7, 117);
-            this.lblTeamName.Name = "lblTeamName";
-            this.lblTeamName.Size = new System.Drawing.Size(213, 52);
-            this.lblTeamName.TabIndex = 1;
-            this.lblTeamName.Text = "Raptors";
+            this.pictureBox1.Location = new System.Drawing.Point(223, 46);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(208, 185);
+            this.pictureBox1.TabIndex = 2;
+            this.pictureBox1.TabStop = false;
             // 
             // frmSportsTeams
             // 
@@ -141,6 +152,7 @@
             this.mnuSports.PerformLayout();
             this.grbLabels.ResumeLayout(false);
             this.grbLabels.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -158,6 +170,7 @@
         private System.Windows.Forms.GroupBox grbLabels;
         private System.Windows.Forms.Label lblTeamName;
         private System.Windows.Forms.Label lblSportName;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

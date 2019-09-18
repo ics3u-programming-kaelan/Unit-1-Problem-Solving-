@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Properties\Resources.cs" />
     <Compile Include="SportsTeamsForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,15 +55,6 @@
     </Compile>
     <Compile Include="SportsTeams.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="SportsTeamsForm.resx">
       <DependentUpon>SportsTeamsForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -78,6 +70,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\raptorsLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redblacksLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seattleUprising.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

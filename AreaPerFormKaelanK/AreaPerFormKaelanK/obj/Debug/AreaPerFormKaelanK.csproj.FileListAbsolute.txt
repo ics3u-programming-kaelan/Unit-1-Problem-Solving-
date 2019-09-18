@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\bin\Debug\AreaPerFormKaelanK.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\bin\Debug\AreaPerFormKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\bin\Debug\AreaPerFormKaelanK.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.frmAreaPer.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.pdb
