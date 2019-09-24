@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\PizzaCostKaelanK\PizzaCostKaelanK\bin\Debug\PizzaCostKaelanK.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\PizzaCostKaelanK\PizzaCostKaelanK\bin\Debug\PizzaCostKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\PizzaCostKaelanK\PizzaCostKaelanK\bin\Debug\PizzaCostKaelanK.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\PizzaCostKaelanK\PizzaCostKaelanK\obj\Debug\PizzaCostKaelanK.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\PizzaCostKaelanK\PizzaCostKaelanK\obj\Debug\PizzaCostKaelanK.frmPizzaCost.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\PizzaCostKaelanK\PizzaCostKaelanK\obj\Debug\PizzaCostKaelanK.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\PizzaCostKaelanK\PizzaCostKaelanK\obj\Debug\PizzaCostKaelanK.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\PizzaCostKaelanK\PizzaCostKaelanK\obj\Debug\PizzaCostKaelanK.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\PizzaCostKaelanK\PizzaCostKaelanK\obj\Debug\PizzaCostKaelanK.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\PizzaCostKaelanK\PizzaCostKaelanK\obj\Debug\PizzaCostKaelanK.pdb
