@@ -17,21 +17,25 @@ namespace MovingCatKaelanK
             InitializeComponent();
         }
 
+        // closes form
         private void ExitToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
+        // changes picture to seattle uprising
         private void MniSeattleUprising_Click(object sender, EventArgs e)
         {
             this.picChangedPic.Image = Properties.Resources.seattleUprising;
         }
 
+        // changes picture to ottawa redblacks
         private void MniOttawaRedblacks_Click(object sender, EventArgs e)
         {
             this.picChangedPic.Image = Properties.Resources.ottawaRedblacks;
         }
 
+        // changes picture to toronto raptors
         private void MniTorontoRaptors_Click(object sender, EventArgs e)
         {
             this.picChangedPic.Image = Properties.Resources.torontoRaptors;
