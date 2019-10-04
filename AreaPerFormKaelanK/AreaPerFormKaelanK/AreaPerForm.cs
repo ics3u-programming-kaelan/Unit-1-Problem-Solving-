@@ -24,6 +24,7 @@ namespace AreaPerFormKaelanK
         {
             InitializeComponent();
 
+            // hiding labels
             this.lblAreaAns.Hide();
             this.lblPerAns.Hide();
             this.lblAns1.Hide();
@@ -56,9 +57,11 @@ namespace AreaPerFormKaelanK
 
         }
 
+        // calculates the area and perimeter with users input
         private void BtnCalculate_Click(object sender, EventArgs e)
         {
 
+            // setting variables
             double length, width, area, perimeter;
 
             length = double.Parse(txtLength.Text);
@@ -69,11 +72,13 @@ namespace AreaPerFormKaelanK
 
             perimeter = length * 2 + width * 2;
 
+            // showing labels
             this.lblAreaAns.Show();
             this.lblPerAns.Show();
             this.lblAns1.Show();
             this.lblAns2.Show();
 
+            // converting to string
             this.lblAns1.Text = Convert.ToString(perimeter + " m");
             this.lblAns2.Text = Convert.ToString(area + " m²");
         }
