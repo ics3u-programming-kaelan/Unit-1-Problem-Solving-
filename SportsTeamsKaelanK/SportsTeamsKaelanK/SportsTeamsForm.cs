@@ -24,7 +24,7 @@ namespace SportsTeamsKaelanK
             InitializeComponent();
         }
 
-        //
+        // when clicked changes labels to toronto and raptors
         private void MniBasketball_Click(object sender, EventArgs e)
         {
             this.lblSportName.Text = "Toronto";
@@ -32,20 +32,21 @@ namespace SportsTeamsKaelanK
             
         }
 
-
+        // when clicked changes labels to ottawa and redblacks
         private void MniFootball_Click(object sender, EventArgs e)
         {
             this.lblSportName.Text = "Ottawa";
             this.lblTeamName.Text = "Redblacks";
         }
 
-
+        // when clicked changes labels to manchester and united
         private void MniSoccer_Click(object sender, EventArgs e)
         {
             this.lblSportName.Text = "Manchester";
             this.lblTeamName.Text = "United";
         }
 
+        // when clicked changes labels to seattle and uprising
         private void MniPaintball_Click(object sender, EventArgs e)
         {
             this.lblSportName.Text = "Seattle";
