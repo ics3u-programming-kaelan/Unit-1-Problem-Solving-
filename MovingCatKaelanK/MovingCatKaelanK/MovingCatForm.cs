@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Kaelan K
+ * Created on: 14-09-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #8 - Moving Cat
+ * This program changes the picture when the menu item is clicked
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
