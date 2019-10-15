@@ -1,10 +1,24 @@
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\bin\Debug\AreaPerFormKaelanK.exe.config
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\bin\Debug\AreaPerFormKaelanK.exe
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\bin\Debug\AreaPerFormKaelanK.pdb
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.csprojAssemblyReference.cache
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.frmAreaPer.resources
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.Properties.Resources.resources
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.csproj.GenerateResource.cache
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.csproj.CoreCompileInputs.cache
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.exe
-N:\Classes\Sem1-Fall2019\ICS3U Programming\KKaelan (s254351)\Unit 1 (Problem Solving)\AreaPerFormKaelanK\AreaPerFormKaelanK\obj\Debug\AreaPerFormKaelanK.pdb
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/AreaPerFormKaelanK/AreaPerFormKaelanK/bin/Debug/AreaPerFormKaelanK.exe.config
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/AreaPerFormKaelanK/AreaPerFormKaelanK/bin/Debug/AreaPerFormKaelanK.exe
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/AreaPerFormKaelanK/AreaPerFormKaelanK/bin/Debug/AreaPerFormKaelanK.pdb
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.csprojAssemblyReference.cache
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.frmAreaPer.resources
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.Properties.Resources.resources
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.csproj.GenerateResource.cache
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.csproj.CoreCompileInputs.cache
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.exe
+N:/Classes/Sem1-Fall2019/ICS3U Programming/KKaelan (s254351)/Unit 1 (Problem Solving)/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.pdb
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/bin/Debug/AreaPerFormKaelanK.exe.config
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/bin/Debug/AreaPerFormKaelanK.exe
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/bin/Debug/AreaPerFormKaelanK.pdb
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.csprojAssemblyReference.cache
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.frmAreaPer.resources
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.Properties.Resources.resources
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.csproj.GenerateResource.cache
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.exe
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.pdb
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/bin/Debug/EntityFramework.dll
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/bin/Debug/EntityFramework.SqlServer.dll
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/bin/Debug/EntityFramework.xml
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/bin/Debug/EntityFramework.SqlServer.xml
+/Applications/School/ICS3U/Unit-1-Problem-Solving-/AreaPerFormKaelanK/AreaPerFormKaelanK/obj/Debug/AreaPerFormKaelanK.csproj.CopyComplete
